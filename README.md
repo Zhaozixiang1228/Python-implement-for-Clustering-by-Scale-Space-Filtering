@@ -41,4 +41,4 @@ In pattern recognition and image processing, the major application areas of clus
 
 ### Number of blob center VS. Iteration number
 
-<img src="sources\Number of blob center.png" alt="Number of blob center" align=center width="50%" height="50%" />
+<img align=center src="sources\Number of blob center.png" alt="Number of blob center" width="50%" />
