@@ -29,18 +29,16 @@ In pattern recognition and image processing, the major application areas of clus
 
 ### Algorithm pseudo-code
 
-<img src="sources/SSF1.png" alt="Algorithm pseudo-code" width="50%" height="50%" />
-
-![test image size](sources/SSF1.png)
+<img src="sources/SSF1.png" alt="Algorithm pseudo-code" align=center width="100%" height="100%" />
 
 ### Evolutionary tree of cluster centers obtained by algorithm.
 
-<img src="sources\SSF2.jpg" style="zoom:90%;" />
+<img src="sources\SSF2.jpg" align=center width="80%" height="80%" />
 
 ### Gif Exhibition of Scale-Space Filtering in clustering
 
-<img src="sources\Clustering Results by Scale-Space Filtering.gif" alt="Clustering Results by Scale-Space Filtering" style="zoom:80%;" />
+<img src="sources\Clustering Results by Scale-Space Filtering.gif" alt="Clustering Results by Scale-Space Filtering" align=center width="100%" height="100%" />
 
 ### Number of blob center VS. Iteration number
 
-<img src="sources\Number of blob center.png" alt="Number of blob center" style="zoom:50%;" />
+<img src="sources\Number of blob center.png" alt="Number of blob center" align=center width="50%" height="50%" />
