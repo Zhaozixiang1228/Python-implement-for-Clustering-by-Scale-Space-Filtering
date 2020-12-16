@@ -29,9 +29,9 @@ In pattern recognition and image processing, the major application areas of clus
 
 ### Algorithm pseudo-code
 
-<img src="sources/SSF1.png" alt="Algorithm pseudo-code" style="zoom:80%;" />
+<img src="sources/SSF1.png" alt="Algorithm pseudo-code" width="50%" height="50%" />
 
-![test image size](sources/SSF1.png){:height="20%" width="20%"}
+![test image size](sources/SSF1.png)
 
 ### Evolutionary tree of cluster centers obtained by algorithm.
 
