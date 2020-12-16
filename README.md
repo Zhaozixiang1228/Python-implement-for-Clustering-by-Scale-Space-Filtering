@@ -29,7 +29,7 @@ In pattern recognition and image processing, the major application areas of clus
 
 ### Algorithm pseudo-code
 
-<img src="sources\SSF1.png" style="zoom:80%;" />
+<img src="https://github.com/Zhaozixiang1228/Python-implement-for-Clustering-by-Scale-Space-Filtering/blob/main/sources/SSF1.png" style="zoom:80%;" />
 
 ###  Evolutionary tree of cluster centers obtained by algorithm.
 
